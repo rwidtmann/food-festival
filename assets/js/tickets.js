@@ -21,5 +21,6 @@ if (window.location.href.indexOf("tickets") > -1) {
     ))
     
   }
+  
   purchaseBtn.addEventListener("click", purchaseTicket);
 }
